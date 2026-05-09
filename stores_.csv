@@ -1,0 +1,31 @@
+iso_code,name,website,category,phone,price,rating
+RST001,Nobu Restaurant,https://www.noburestaurants.com,Japanese Fine Dining,+12127579595,350.00,4.8
+RST002,The French Laundry,https://www.thomaskeller.com/tfl,French Fine Dining,+17079442380,450.00,4.9
+RST003,Shake Shack,https://www.shakeshack.com,Burger,+13474344135,150.00,4.4
+RST004,Cheesecake Factory,https://www.thecheesecakefactory.com,American Casual,+18183008000,200.00,4.3
+RST005,Olive Garden,https://www.olivegarden.com,Italian Casual,+18008668300,180.00,4.2
+RST006,Benihana,https://www.benihana.com,Japanese Steakhouse,+13054920777,280.00,4.5
+RST007,Ruth's Chris Steak House,https://www.ruthschris.com,American Steakhouse,+15043047800,420.00,4.7
+RST008,The Cheesesteak Shop,https://www.cheesesteakshop.com,Sandwich,+15108415000,95.00,4.3
+RST009,In-N-Out Burger,https://www.in-n-out.com,Burger,+18004869467,80.00,4.6
+RST010,Panda Express,https://www.pandaexpress.com,Chinese Fast Food,+16263997100,120.00,4.1
+RST011,Texas de Brazil,https://www.texasdebrazil.com,Brazilian Steakhouse,+14692872600,380.00,4.6
+RST012,PF Changs,https://www.pfchangs.com,Chinese Casual,+14809434100,220.00,4.3
+RST013,Red Lobster,https://www.redlobster.com,Seafood,+14078345571,250.00,4.2
+RST014,Cracker Barrel,https://www.crackerbarrel.com,Southern American,+16158443800,130.00,4.3
+RST015,Applebees,https://www.applebees.com,American Casual,+19135408000,160.00,4.0
+RST016,Denny's,https://www.dennys.com,American Diner,+18008336789,100.00,3.9
+RST017,Buffalo Wild Wings,https://www.buffalowildwings.com,Sports Bar & Grill,+16122932300,180.00,4.2
+RST018,Chipotle,https://www.chipotle.com,Mexican Fast Casual,+13039956000,130.00,4.4
+RST019,Five Guys,https://www.fiveguys.com,Burger,+17039721000,140.00,4.5
+RST020,Wingstop,https://www.wingstop.com,Chicken Wings,+19729806000,120.00,4.3
+RST021,Crumbl Cookies,https://www.crumblcookies.com,Dessert,+13852322867,90.00,4.6
+RST022,First Watch,https://www.firstwatch.com,Breakfast & Brunch,+19417085771,130.00,4.5
+RST023,Bonefish Grill,https://www.bonefishgrill.com,Seafood,+18138730544,260.00,4.4
+RST024,Carrabba's Italian Grill,https://www.carrabbas.com,Italian Casual,+18139735941,220.00,4.3
+RST025,Yard House,https://www.yardhouse.com,American Bar & Grill,+18584965749,200.00,4.4
+RST026,Lazy Dog Restaurant,https://www.lazydogrestaurants.com,American Comfort,+17142659600,190.00,4.5
+RST027,Founding Farmers,https://www.wearefoundingfarmers.com,Farm-to-Table,+12024888660,230.00,4.6
+RST028,Flour Bakery,https://www.flourbakery.com,Bakery Cafe,+16173384333,85.00,4.7
+RST029,Eataly,https://www.eataly.com,Italian Marketplace,+12129295501,280.00,4.6
+RST030,Momofuku,https://www.momofuku.com,Asian Fusion,+16468610020,300.00,4.7
